@@ -2,13 +2,10 @@
 
 A beginner-friendly Matplotlib learning repository covering the essential visualization techniques used in Data Analysis, Machine Learning, and Artificial Intelligence.
 
-This repository contains a well-structured Jupyter Notebook with explanations, examples, exercises, and practical visualizations to help you learn Matplotlib from the ground up.
-
 ---
 
 ## Topics Covered
 
-- Introduction to Matplotlib
 - Figure and Axes
 - Line Plots
 - Scatter Plots
@@ -54,8 +51,6 @@ After completing this notebook, you will be able to:
 ```text
 .
 ├── Matplotlib_Fundamentals.ipynb
-├── sample_data.csv
-├── sin_plot.png
 └── README.md
 ```
 
