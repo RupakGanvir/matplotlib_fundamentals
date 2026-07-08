@@ -69,12 +69,6 @@ Install the required libraries:
 pip install matplotlib pandas numpy
 ```
 
-or install from the requirements file:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Author
